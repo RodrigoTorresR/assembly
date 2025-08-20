@@ -116,5 +116,9 @@ qemu-system-x86\_64 -hda freedos.img -cdrom FD14FULL.vmdk -boot d -m 16
 
 
 
- 
+
+
+
+
+nasm -f bin C:\\Users\\sambo\\Documents\\Programacion\\GitHub\\assembly\\hello.asm -o C:\\Users\\sambo\\Documents\\Programacion\\GitHub\\assembly\\hello.com 
 
